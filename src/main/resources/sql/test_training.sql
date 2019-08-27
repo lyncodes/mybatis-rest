@@ -1,0 +1,4 @@
+INSERT INTO test.training (training_id, user_id, training_start, training_end, training_kind, coach, position, performance) VALUES (1, 1, '2019-08-27 16:19:11', '2019-08-27 16:19:13', 'speed', 'jim', 'outdoor', 'A+');
+INSERT INTO test.training (training_id, user_id, training_start, training_end, training_kind, coach, position, performance) VALUES (2, 1, '2019-08-27 16:19:36', '2019-08-27 16:19:37', 'endurance', 'jack', 'playground', 'B');
+INSERT INTO test.training (training_id, user_id, training_start, training_end, training_kind, coach, position, performance) VALUES (3, 1, '2019-08-27 16:20:59', '2019-08-27 16:21:00', 'flexibility', 'john', 'pool', 'A');
+INSERT INTO test.training (training_id, user_id, training_start, training_end, training_kind, coach, position, performance) VALUES (4, 2, '2019-08-27 16:27:34', '2019-08-27 16:27:35', 'flexibility', 'jim', 'playground', 'A-');

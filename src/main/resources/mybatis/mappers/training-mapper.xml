@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="spring.boot.mybatisrest.dao.Training.TrainingMapper">
+
+    <select id="getTrainings" resultType="spring.boot.mybatisrest.entity.Training">
+        SELECT * from training where user_id = #{user_id}
+    </select>
+
+</mapper>

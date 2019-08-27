@@ -1,0 +1,2 @@
+INSERT INTO test.person (user_id, name, birthday, edu, marry, income, gender, career) VALUES (1, 'tom', '2019-08-27 15:53:34', 'graduate', 'married', 10000, 'male', 'engineer');
+INSERT INTO test.person (user_id, name, birthday, edu, marry, income, gender, career) VALUES (2, 'jim', '2019-08-27 16:26:34', 'phd', 'unmarried', 20000, 'male', 'docter');

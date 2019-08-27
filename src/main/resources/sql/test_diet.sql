@@ -1,0 +1,3 @@
+INSERT INTO test.diet (diet_id, user_id, diet_start, diet_end, staple_kind, staple_amount, water, protein, vegetable_kind, vegetable_amount) VALUES (1, 1, '2019-08-27 16:16:21', '2019-08-27 16:16:23', 'rice', 100, 300, 30, 'potato', 200);
+INSERT INTO test.diet (diet_id, user_id, diet_start, diet_end, staple_kind, staple_amount, water, protein, vegetable_kind, vegetable_amount) VALUES (2, 1, '2019-08-27 16:16:45', '2019-08-27 16:16:47', 'noddle', 200, 400, 40, 'tomato', 300);
+INSERT INTO test.diet (diet_id, user_id, diet_start, diet_end, staple_kind, staple_amount, water, protein, vegetable_kind, vegetable_amount) VALUES (3, 1, '2019-08-27 16:17:54', '2019-08-27 16:17:56', 'pizza', 200, 200, 50, 'onion', 100);
